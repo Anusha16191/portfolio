@@ -3,3 +3,17 @@
     margin: 0;
     font-family: "Google Sans Display",Roboto,Arial,sans-serif;
 }
+
+.main{
+    display: flex;
+    min-height: 1500px;
+    height: max-content;
+    background-color:rgb(29,29,29);
+}
+.container{
+
+    width:100vw;
+    background-color:rgb(29,29,29);
+    min-height: 100vh;
+    color: white;
+}

@@ -1,0 +1,16 @@
+.project img{
+
+    border-radius: 0;
+    width: 40%;
+    height: 30%;
+}
+
+.container{
+ width: 80vw;
+ margin-top: 5%;
+
+}
+
+p{
+    font-size: large;
+}
