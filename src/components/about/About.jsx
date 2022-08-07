@@ -52,18 +52,19 @@ const About = () => {
                 </table>
 
             <div className='hobbies'>
-                <h4>INTERNSHIPS</h4>
+                <h4>INTERNSHIP</h4>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>FRONT END WEB DEVELOPMENT AT TECHNICAL CODING RESEARCH INNOVATION </li>
+                    
                 </ul>
             </div>
 
             <div className='extra'>
                 <h4>HOBBIES AND INTERESTS</h4>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>WEBSITE DESIGNING</li>
+                    <li>ETHICAL HACKING</li>
+                    <li>MARTIAL ARTS-KARATE </li>
                 </ul>
             </div>
 
@@ -75,7 +76,7 @@ const About = () => {
                 <li>Gender              : Female</li>
                 <li>Blood Group         : B positive</li>
                 <li>Nationality         : Indian</li>
-                <li>Fther's Name        : Sajeev P S</li>
+                <li>Father's Name        : Sajeevan P S</li>
                 <li>Language Skills     : English,Malayalam</li>
                 <li>Marital Status      : Not Married</li>
                 </ul>
